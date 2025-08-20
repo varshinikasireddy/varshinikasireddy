@@ -50,25 +50,43 @@
 ## 📊 GitHub Stats
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=varshinikasireddy&show_icons=true&theme=tokyonight&cache_seconds=1800" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=varshinikasireddy&show_icons=true&theme=tokyonight&cache_seconds=1800" width="32%" />
   
   <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=varshinikasireddy&theme=tokyonight&hide_border=false" height="160" />
+  <img src="https://streak-stats.demolab.com?user=varshinikasireddy&theme=tokyonight&hide_border=false" width="32%" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshinikasireddy&layout=compact&theme=tokyonight&cache_seconds=1800" width="32%" />
 </p>
 
+
+
 <p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshinikasireddy&layout=compact&theme=tokyonight&cache_seconds=1800" height="160" />
+  <img src="https://github-profile-trophy.vercel.app/?username=varshinikasireddy&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 <!-- Contribution Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varshinikasireddy&theme=tokyo-night&hide_border=false" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varshinikasireddy&theme=tokyo-night&hide_border=false" width="95%" alt="GitHub Activity Graph" />
+</p>
+
+
+## 📊 LeetCode Stats
+
+<p align="center">
+
+  <!-- LeetCode Heatmap -->
+  <img
+    src="https://leetcard.jacoblin.cool/klu2300060019?ext=heatmap&theme=tokyonight&cache=1800"
+    width="60%" height="10%"
+    alt="LeetCode Heatmap"
+  />
 </p>
 
 
 
 
+  
 
 ---
 
@@ -87,7 +105,9 @@
   <a href="https://codechef.com/users/klu2300060019">
     <img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-311E00?style=for-the-badge&logo=codechef&logoColor=white">
   </a>
+
+
 </p>
 
->⭐ *“Keep building, keep learning, keep growing.”*  
+>*“⭐ Star my repos or reach out for collabs! Let’s build something awesome! Keep building, keep learning, keep growing.”*  
 
