@@ -10,9 +10,13 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/varshinikasireddy?label=Followers" alt="GitHub Followers" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=varshinikasireddy.varshinikasireddy" alt="Profile Views" />
+  <!-- Followers -->
+  <img src="https://img.shields.io/github/followers/varshinikasireddy?label=Followers&style=flat-square" alt="GitHub Followers" />
+  
+  <!-- Visitors -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=varshinikasireddy.varshinikasireddy&style=flat-square" alt="Profile Views" />
 </p>
+
 
 
 
@@ -33,33 +37,35 @@
 |----------------------|----------------------|----------------------------|
 | <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,materialui" /> | <img src="https://skillicons.dev/icons?i=java,spring,nodejs" /> | <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins" /> |
 
-
 | 🗄️ Database & Storage | 🛠️ Tools & Platforms |
 |------------------------|----------------------|
-| <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> | <img src="https://skillicons.dev/icons?i=python,postman,linux,vscode" /> |
-
+| <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> | <img src="https://skillicons.dev/icons?i=python,postman,linux,vscode,eclipse" /> |
 
 </div>
+
 
 
 ---
 
 ## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=varshinikasireddy&show_icons=true&hide_title=true&theme=tokyonight&hide_rank=false" height="140" />
-  <img src="https://streak-stats.demolab.com?user=varshinikasireddy&theme=tokyonight&hide_border=false" height="140" />
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=varshinikasireddy&show_icons=true&theme=tokyonight&cache_seconds=1800" height="160" />
+  
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=varshinikasireddy&theme=tokyonight&hide_border=false" height="160" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshinikasireddy&layout=compact&theme=tokyonight" height="140" />
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshinikasireddy&layout=compact&theme=tokyonight&cache_seconds=1800" height="160" />
 </p>
-
-
 
 <!-- Contribution Graph -->
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varshinikasireddy&theme=tokyo-night&hide_border=false" alt="activity graph" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varshinikasireddy&theme=tokyo-night&hide_border=false" alt="GitHub Activity Graph" />
 </p>
+
 
 
 
