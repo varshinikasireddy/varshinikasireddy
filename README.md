@@ -8,6 +8,18 @@
 </a>
 </p>
 
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/varshinikasireddy?label=Followers" alt="GitHub Followers" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=varshinikasireddy.varshinikasireddy" alt="Profile Views" />
+</p>
+
+
+
+
+
+
+
 ## ✨ About Me  
 - 🔭 Currently pursuing **B.Tech in Computer Science & IT (2023–2027)** @**KL University**  
 - 💡 Passionate about **Full Stack Development, AI, and Cloud Technologies**  
