@@ -3,90 +3,99 @@
   <img src="banner.png" alt="Varshini Kasireddy Banner" width="100%" />
 
   <!-- Typing Effect -->
- <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&height=70&lines=🚀+Full+Stack+Developer;⚡+Clean+Code+Advocate;🧩+Problem+Solver;🌍+Open+Source+Contributor;💡+Tech+Enthusiast&font=Montserrat+Bold" alt="Typing SVG" />
-</a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&height=70&lines=Full+Stack+Developer;Clean+Code+Advocate;Problem+Solver;Open+Source+Contributor;Tech+Enthusiast&font=Montserrat+Bold" alt="Typing SVG" />
+  </a>
 </p>
-
 
 <p align="center">
   <!-- Followers -->
   <img src="https://img.shields.io/github/followers/varshinikasireddy?label=Followers&style=flat-square" alt="GitHub Followers" />
-  
   <!-- Visitors -->
   <img src="https://visitor-badge.laobi.icu/badge?page_id=varshinikasireddy.varshinikasireddy&style=flat-square" alt="Profile Views" />
 </p>
 
-
-
-
-
-
-
+---
 
 ## ✨ About Me  
-- 🔭 Currently pursuing **B.Tech in Computer Science & IT (2023–2027)** @**KL University**  
-- 💡 Passionate about **Full Stack Development, AI, and Cloud Technologies**  
-- 🌱 Currently learning **System Design & Performance Optimization**  
-- ⚡ Motto: *"Code with clarity, build with creativity, learn endlessly"*
+
+I’m **VARSHINI**, a Computer Science & IT undergraduate with a strong focus on **full-stack engineering, backend development, and cloud technologies**.  
+I enjoy building **clean, scalable, and user-centric applications**—from intuitive frontends to secure, high-performance backends.
+
+I’m currently sharpening my skills in **system design, distributed systems, API development, and production-grade application architecture**.  
+I love working on projects that blend **creativity, problem-solving, and real-world impact**, and I’m always open to collaboration and new ideas.
+
+> **I believe great engineering comes from clarity, consistency, and continuous learning.**
+
 ---
+
 ## 🔧 Skills & Tools
-<div align="center" style="display: flex; justify-content: center; gap: 40px;">
-  
-| 🎨 Frontend Mastery | ⚙️ Backend Expertise | 🚀 DevOps & Infrastructure |
-|----------------------|----------------------|----------------------------|
+
+<div align="center">
+
+| 🎨 Frontend | ⚙️ Backend | 🚀 DevOps / Infra |
+|------------|-----------|------------------|
 | <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,materialui" /> | <img src="https://skillicons.dev/icons?i=java,spring,nodejs" /> | <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins" /> |
 
-| 🗄️ Database & Storage | 🛠️ Tools & Platforms |
-|------------------------|----------------------|
+| 🗄️ Databases | 🛠️ Tools & Platforms |
+|--------------|----------------------|
 | <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> | <img src="https://skillicons.dev/icons?i=python,postman,linux,vscode,eclipse" /> |
 
 </div>
 
+---
+
+
+## 🚀 Featured Projects
+
+### 🔹 **Text2SQL Voice Assistant (Chatbot)**
+A voice-enabled intelligent system that converts natural language queries into SQL statements and retrieves accurate results from a database.  
+Handles speech processing, SQL generation, and clear result responses.
+
+**Tech Stack:** Python, Flask, SQL, Speech-to-Text, OpenAI GPT-4o-mini (via OpenRouter for chat, direct OpenAI for audio)
+
+**Highlights:** Real-time query conversion, chatbot-style responses
+
+---
+
+### 🔹 **Expense Tracker**
+A full-stack application that allows users to track daily expenses with authentication, analytics, and a clean UI.  
+Includes categories, visual charts, filtering, and secure data handling.
+
+**New AI Feature: Receipt Auto-Scanning**
+
+Automatically extracts expense details from uploaded receipts using OCR.
+No need to type manually — the app reads the receipt and fills the fields for you.
+
+**Tech Stack:** React,SpringBoot,MySQL, JWT Authentication,OCR (Tesseract / Google Vision API)
 
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=varshinikasireddy&show_icons=true&theme=tokyonight&cache_seconds=1800" width="32%" />
-  
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=varshinikasireddy&theme=tokyonight&hide_border=false" width="32%" />
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshinikasireddy&layout=compact&theme=tokyonight&cache_seconds=1800" width="32%" />
-</p>
-
-
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=varshinikasireddy&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=varshinikasireddy&show_icons=true&theme=tokyonight&cache_seconds=1800" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshinikasireddy&layout=compact&theme=tokyonight&cache_seconds=1800" width="42%" />
 </p>
 
-<!-- Contribution Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=varshinikasireddy&theme=tokyo-night&hide_border=false" width="95%" alt="GitHub Activity Graph" />
 </p>
 
+---
 
-## 📊 LeetCode Stats
+## 🧠 LeetCode Stats  
+
+Improving problem-solving skills through consistent DSA practice.
 
 <p align="center">
-
-  <!-- LeetCode Heatmap -->
   <img
     src="https://leetcard.jacoblin.cool/klu2300060019?ext=heatmap&theme=tokyonight&cache=1800"
-    width="60%" height="10%"
+    width="60%"
     alt="LeetCode Heatmap"
   />
 </p>
-
-
-
-
-  
 
 ---
 
@@ -105,9 +114,9 @@
   <a href="https://codechef.com/users/klu2300060019">
     <img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-311E00?style=for-the-badge&logo=codechef&logoColor=white">
   </a>
-
-
 </p>
 
->*“⭐ Star my repos or reach out for collabs! Let’s build something awesome! Keep building, keep learning, keep growing.”*  
+---
 
+> *“If you’d like to collaborate or discuss ideas, feel free to reach out.  
+Let’s build something impactful — keep learning, keep growing.”*
